@@ -1,0 +1,1 @@
+{"name":"Local: Consep_session","url":"d:\\Programming\\program\\Extra\\Recursion\\Consep_session.c","tests":[{"id":1709958017670,"input":"5\n12 5 35 2 3","output":"12 5 35 2 3"},{"id":1709966554036,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\program\\Extra\\Recursion\\Consep_session.c","group":"local","local":true}
